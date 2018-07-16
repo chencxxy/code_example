@@ -4,4 +4,4 @@ foo<-"that"
 
 bar<-'this'
 
-foo+bar
+faz<-foo+bar
