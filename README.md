@@ -13,7 +13,9 @@ This is an ordered list:
 
 - a point
 - another point
-  - subpont 1
+  - subpoint 1
+  - subpoint 2
+
 
 [a link] (https://pearsonlab.github.io) to my webpage
 
