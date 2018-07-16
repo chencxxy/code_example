@@ -1,5 +1,9 @@
 #add files
 
-foo<-32
+foo<-"that"
 
-newvar<-31
+bar<-'this'
+
+faz<-foo+bar
+
+haha
